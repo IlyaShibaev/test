@@ -4,6 +4,6 @@ public class Main {
 
         Cat barsik = new Cat("vasilek", 6, "orange", 6.5);
         Cat puffistic = new Cat();
-        Cat lovely = new Cat("branch", 6, "orange", 6.0);
+        Cat lovely = new Cat("branch_2", 6, "orange", 6.0);
     }
 }
